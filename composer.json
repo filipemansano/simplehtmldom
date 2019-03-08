@@ -1,0 +1,13 @@
+{
+    "name": "filipemansano/simplehtmldom",
+    "description": "Wrapper for SimpleHtmlDom",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Filipe Mansano",
+            "email": "filipemansano@gmail.com"
+        }
+    ],
+    "require": {}
+}
