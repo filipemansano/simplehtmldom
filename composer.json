@@ -17,7 +17,13 @@
             "email": "filipemansano@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.3.2",
+        "ext-mbstring": "*"
+    },
     "autoload": {
-        "psr-4": {"filipemansano\\SimpleHtmlDomParser\\": "/"}
-    }
+        "psr-0": { 
+            "FilipeMansano\\PhpSimple\\HtmlDomParser": "Src/" 
+        }
+    }   
 }
