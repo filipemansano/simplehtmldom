@@ -17,5 +17,7 @@
             "email": "filipemansano@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {"filipemansano\\SimpleHtmlDomParser\\": "/"}
+    }
 }
