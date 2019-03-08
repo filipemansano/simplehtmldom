@@ -2,8 +2,14 @@
     "name": "filipemansano/simplehtmldom",
     "description": "Wrapper for SimpleHtmlDom",
     "type": "library",
+    "keywords": ["html", "dom", "parser"],
+    "homepage": "https://github.com/filipemansano/simplehtmldom",
     "license": "MIT",
     "authors": [
+        {   
+            "name": "S.C. Chen",
+            "homepage": "http://sourceforge.net/projects/simplehtmldom/"
+        },
         {
             "name": "Filipe Mansano",
             "email": "filipemansano@gmail.com"
