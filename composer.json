@@ -5,7 +5,8 @@
     "keywords": ["html", "dom", "parser"],
     "homepage": "https://github.com/filipemansano/simplehtmldom",
     "license": "MIT",
-    "minimum-stability" : "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {   
             "name": "S.C. Chen",
